@@ -1,6 +1,6 @@
 # OWASP Top 10 2013 Examples
 
-> Kopiert und "dockerisiert" von https://github.com/lighthouse-labs/owasp-top-10-examples. Nicht ganz alle funktionieren, jedoch die meisten.
+Frech kopiert und "dockerisiert" von https://github.com/lighthouse-labs/owasp-top-10-examples. Nicht ganz alle funktionieren, jedoch die meisten.
 
 ## Build
 
